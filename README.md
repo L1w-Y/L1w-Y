@@ -9,7 +9,7 @@
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/hp3dmEypS0FaoyzWLR/giphy.gif" width="240"/>
 </a>
 
-## 🌞About Me
+### 🌞About Me
 - 💡 Enjoy sharing, passionate about open source and the art of programming
   
 - 📚 Currently learning C++, Linux system programming, and high-performance server development

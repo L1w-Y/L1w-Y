@@ -1,18 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=4B69D6FC&vCenter=true&repeat=false&width=450&height=59&lines=WELCOME+TO+MY+GITHUB+PROFILE+!)](https://git.io/typing-svg)
+<!-- 顶部动画大标题，居中显示 -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=4B69D6FC&center=true&repeat=false&width=600&height=70&lines=WELCOME+TO+MY+GITHUB+PROFILE+!" alt="Typing SVG" />
+  </a>
+</p>
 
 <a href="https://media0.giphy.com/media/hp3dmEypS0FaoyzWLR/giphy.gif">
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/hp3dmEypS0FaoyzWLR/giphy.gif" width="240"/>
 </a>
 
-### 🌞About Me
-
-- 💡 Enjoy sharing, passionate about open source and the art of programming  
-- 📚 Currently learning C++, Linux system programming, and high-performance server development  
+## 🌞About Me
+- 💡 Enjoy sharing, passionate about open source and the art of programming
+  
+- 📚 Currently learning C++, Linux system programming, and high-performance server development
+  
 - 🌟 Welcome to connect and learn together
 
 <br/><br/><br/>
 
-You are the ![Visitor Count](https://profile-counter.glitch.me/xenon/count.svg)th visitor
+You are the ![Visitor Count](https://profile-counter.glitch.me/xenon/count.svg) th  visitor
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>

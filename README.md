@@ -12,7 +12,7 @@
   
 - 📚 Currently learning C++, Linux system programming.
   
-- 🌟 excited to collaborate and learn from others.
+- 🌟 Excited to collaborate and learn from others.
   
 - 📫 Feel free to reach out, connect, or collaborate!
 

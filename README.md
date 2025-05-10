@@ -1,8 +1,6 @@
 <!-- 顶部动画大标题，居中显示 -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=4B69D6FC&center=true&repeat=false&width=600&height=70&lines=WELCOME+TO+MY+GITHUB+PROFILE+!" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=4B69D6FC&center=true&repeat=false&width=600&height=70&lines=WELCOME+TO+MY+GITHUB+PROFILE+!&t=1" /></a>
 </p>
 
 <a href="https://media0.giphy.com/media/hp3dmEypS0FaoyzWLR/giphy.gif">
@@ -10,11 +8,13 @@
 </a>
 
 ### 🌞About Me
-- 💡 Enjoy sharing, passionate about open source and the art of programming
+- 💡 Enjoy sharing, passionate about open source.
   
-- 📚 Currently learning C++, Linux system programming, and high-performance server development
+- 📚 Currently learning C++, Linux system programming.
   
-- 🌟 Welcome to connect and learn together
+- 🌟 excited to collaborate and learn from others.
+  
+- 📫 Feel free to reach out, connect, or collaborate!
 
 <br/><br/><br/>
 

@@ -10,9 +10,9 @@
 ### 🌞About Me
 - 💡 Enjoy sharing, passionate about open source.
   
-- 📚 Currently learning C++, Linux system programming.
+- 📚Currently learning RPC communication, concurrent programming, and distributed communication frameworks.
   
-- 🌟 Excited to collaborate and learn from others.
+- 🌟 Planning to study S6.081 and the principles of coroutine pools.
   
 - 📫 Feel free to reach out, connect, or collaborate!
 

@@ -3,6 +3,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=4B69D6FC&center=true&repeat=false&width=600&height=70&lines=WELCOME+TO+MY+GITHUB+PROFILE+!&t=1" /></a>
 </p>
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=L1w-Y.L1w-Y)
+![Stars](https://img.shields.io/github/stars/L1w-Y?style=social)
+
 <a href="https://media0.giphy.com/media/hp3dmEypS0FaoyzWLR/giphy.gif">
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/hp3dmEypS0FaoyzWLR/giphy.gif" width="240"/>
 </a>

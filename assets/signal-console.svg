@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title">
+  <title id="title">Unknown signal monitor</title>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop stop-color="#080819"/><stop offset=".5" stop-color="#15102d"/><stop offset="1" stop-color="#080819"/>
+    </linearGradient>
+    <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M25 0H0V25" fill="none" stroke="#855cff" stroke-opacity=".12"/>
+    </pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .wave{stroke-dasharray:18 8;animation:move 2s linear infinite}.pulse{animation:pulse 1.5s ease-in-out infinite}
+      @keyframes move{to{stroke-dashoffset:-52}}@keyframes pulse{50%{opacity:.25}}
+    </style>
+  </defs>
+  <rect width="1000" height="300" rx="14" fill="url(#bg)"/>
+  <rect x="25" y="55" width="950" height="190" rx="8" fill="url(#grid)" stroke="#7555d9" stroke-opacity=".45"/>
+  <path class="wave" d="M45 155h70l20-3 12-45 18 91 18-74 20 32h80l15-18 15 34 15-62 22 92 18-47h86l20-7 20-47 19 109 20-84 22 31h75l20-18 18 38 19-67 20 99 18-55h99" fill="none" stroke="#b58cff" stroke-width="3" filter="url(#glow)"/>
+  <circle class="pulse" cx="500" cy="155" r="66" fill="none" stroke="#7af7df" stroke-opacity=".4"/>
+  <circle cx="500" cy="155" r="4" fill="#7af7df" filter="url(#glow)"/>
+  <g font-family="monospace" font-size="13">
+    <text x="30" y="35" fill="#a590ef">UNKNOWN_SIGNAL.LOG // LIVE</text>
+    <text x="30" y="275" fill="#6e65a0">SOURCE: UNRESOLVED</text>
+    <text x="748" y="275" fill="#7af7df">PATTERN DETECTED</text>
+  </g>
+</svg>
+

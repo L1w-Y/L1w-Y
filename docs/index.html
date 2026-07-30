@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#010205">
+  <meta name="description" content="An interactive WebGL black hole experiment.">
+  <title>Event Horizon</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main id="experience">
+    <canvas id="space" aria-label="Interactive black hole simulation"></canvas>
+
+    <div class="grain" aria-hidden="true"></div>
+    <div class="vignette" aria-hidden="true"></div>
+
+    <header class="topbar">
+      <div class="brand">
+        <span class="signal"></span>
+        <span>EVENT HORIZON</span>
+      </div>
+      <div class="coordinates" id="coordinates">ORBIT 00.00 / 00.00</div>
+    </header>
+
+    <section class="hero" aria-labelledby="title">
+      <p class="eyebrow">GRAVITY WELL 07</p>
+      <h1 id="title">Beyond this point,<br>light does not return.</h1>
+      <p class="instruction"><span class="desktop-only">Drag to orbit · Scroll to travel</span><span class="touch-only">Drag to orbit · Pinch to travel</span></p>
+    </section>
+
+    <aside class="controls" aria-label="Black hole controls">
+      <button class="control-button active" id="orbitMode" type="button" aria-pressed="true">
+        <span>01</span> ORBIT
+      </button>
+      <label>
+        <span><b>02</b> GRAVITY</span>
+        <input id="gravity" type="range" min="0.5" max="1.8" step="0.01" value="1.08">
+      </label>
+      <label>
+        <span><b>03</b> DISK SPEED</span>
+        <input id="speed" type="range" min="0" max="2.5" step="0.01" value="0.82">
+      </label>
+      <button class="control-button" id="reset" type="button">
+        <span>04</span> RESET
+      </button>
+    </aside>
+
+    <footer>
+      <span>WEBGL GRAVITATIONAL LENS</span>
+      <span id="fps">RENDERING</span>
+    </footer>
+
+    <div class="fallback" id="fallback" hidden>
+      <p>WebGL is unavailable in this browser.</p>
+      <a href="https://github.com/L1w-Y">Return to GitHub</a>
+    </div>
+  </main>
+  <script src="./black-hole.js"></script>
+</body>
+</html>
+
